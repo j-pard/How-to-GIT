@@ -9,16 +9,16 @@
 2. Clone the repo in your local folder.
       > git clone url
 3. Access the folder and check existing features (branches, files, ...).
-      > cd repositoryName
-      > ls
+      > cd repositoryName  
+      > ls  
       > git branch -a
 4. Create a new branch and move into it.
-      > git branch branchName 
+      > git branch branchName  
       > git checkout branchName
 5. Verify the version of the file.
       > git pull origin branchToCheck
 6. Modify the file with :
-      > nano file.name
+      > nano file.name  
       > external editor
 7. Prepare the file for *staging*.
       > git add file.name
