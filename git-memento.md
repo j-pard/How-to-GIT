@@ -31,7 +31,7 @@
 
 11. If work is **WORKING AND VALIDATED**, you can *merge* it on the principal branch.
 /!\ Avoid as possible to merge on *master* branch /!\
-      > git checkout confirmedBranch
+      > git checkout confirmedBranch  
       > git push origin confirmedBranch  
 
  ## 2. Basics commands :  
